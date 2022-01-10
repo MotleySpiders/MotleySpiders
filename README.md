@@ -50,7 +50,7 @@ All images will appear in ./images subfolder.
 
 8. To assemble all parts of **base64** code and decode it to main image run:
 ```
-chmod +x ./assembel_parts.sh && ./assembel_parts.sh
+chmod +x ./assemble_parts.sh && ./assemble_parts.sh
 ```
 Main image with name _result.png_ will appear in current folder.
 
